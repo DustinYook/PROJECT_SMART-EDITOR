@@ -10,4 +10,4 @@
 - make a report which contains frequency of each word (ver 1.0)
 
 ### Smart Editor ver 1.0
-[!SmartEditor_ver1.0](https://github.com/DustinYook/Project_SmartEditor/blob/master/image/SmartEditor.gif)
+![SmartEditor ver1.0](https://github.com/DustinYook/Project_SmartEditor/blob/master/image/SmartEditor.gif)
