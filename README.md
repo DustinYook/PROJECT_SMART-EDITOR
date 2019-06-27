@@ -12,5 +12,5 @@
 ### Smart Editor ver 1.0
 ![SmartEditor ver1.0](https://github.com/DustinYook/Project_SmartEditor/blob/master/image/SmartEditor.gif)
 
-### SmartEditor ver1.0 Patch
+### SmartEditor ver 1.0 Patch
 ![SmartEditor ver1.0 Patch](https://github.com/DustinYook/Project_SmartEditor/blob/master/image/Patch.gif)
